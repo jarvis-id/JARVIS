@@ -1,7 +1,11 @@
-```markdown
-# J.A.R.V.I.S. AI Assistant
-```
-![JARVIS Logo](assets/logo.png)
+<div align="center">
+  <img src="assets/logo.png" alt="JARVIS Logo" width="200">
+</div>
+
+<svg width="100%" height="40" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="25" font-family="Arial" font-size="24" fill="#0366d6" text-anchor="middle">J.A.R.V.I.S.</text>
+  <p style align="center">Just A Rather Very Intelligent System</p>
+</svg>
 
 <p align="center">
   <a href="./README-en.md">
