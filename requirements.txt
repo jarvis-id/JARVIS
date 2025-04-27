@@ -1,0 +1,6 @@
+PyQt5==5.15.9
+gpt4all==2.4.0
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+psutil==5.9.5
+python-dotenv==1.0.0
