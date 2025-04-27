@@ -54,7 +54,7 @@ JARVIS/
    - Place `Meta-Llama-3-8B-Instruct.Q4_0.gguf` in the `gpt4all/` folder
    - Or run:
      ```bash
-     python -m gpt4all download Meta-Llama-3-8B-Instruct.Q4_0.gguf --path models/
+     python -m gpt4all download Meta-Llama-3-8B-Instruct.Q4_0.gguf --path gpt4all/
      ```
 
 ## 🖥️ Running the Application
