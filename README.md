@@ -9,6 +9,14 @@
   <p style="color:#58a6ff" align="center">Just A Rather Very Intelligent System</p>
 </div>
 
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+  ![License](https://img.shields.io/badge/License-MIT-green)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+
+</div>
+
 <p align="center">
   <a href="./README-en.md">
     <img src="https://img.shields.io/badge/Translate%20to %20English%20Version-%E2%86%92-blue" alt="Translate English Version">
