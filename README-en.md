@@ -1,10 +1,25 @@
-```markdown
-# J.A.R.V.I.S. AI Assistant
-```
-![JARVIS Logo](assets/logo.png)
+<div align="center">
+  <img src="assets/logo.png" alt="JARVIS Logo" width="200">
+</div>
+
+<div align="center">
+  <h1 style="color:#0366d6; margin-bottom:10px">
+    J.A.R.V.I.S.
+  </h1>
+  <p style="color:#58a6ff" align="center">Just A Rather Very Intelligent System</p>
+  <p align="center">Penemu : David dari UNIV Handayani 2011</p>
+</div>
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+  ![License](https://img.shields.io/badge/License-MIT-green)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+
+</div>
 
 <p align="center">
-  <a href="./README-en.md">
+  <a href="/README.md">
     <img src="https://img.shields.io/badge/Terjemahkan%20ke %20Versi%20Indonesia-%E2%86%92-blue" alt="Translate English Version">
   </a>
 </p>
@@ -14,14 +29,14 @@ A voice and GUI-based AI assistant inspired by Iron Man's J.A.R.V.I.S., built wi
 ## 🚀 Key Features
 - Voice interaction with wake word "Jarvis"
 - Modern GUI interface using PyQt5
-- Local model support (Meta-Llama-3-8B-Instruct.Q4_0)
+- Local model support (Llama 3 8B Instruct)
 - Browser and YouTube integration
 - Multi-theme support (dark/light mode)
 
 ## 📦 Project Structure
 ```
 JARVIS/
-├── models/               # Local AI models
+├── gpt4all/              # Local AI models
 │   └── Meta-Llama-3-8B-Instruct.Q4_0.gguf
 ├── assets/               # Image assets and icons
 ├── core/                 # Core modules
@@ -29,7 +44,6 @@ JARVIS/
 │   ├── hardware.py       # Hardware control
 │   ├── jarvis_ai.py      # AI core
 │   └── voice.py          # Voice processing
-├── gpt4all/              # download Meta-Llama-3-8B-Instruct.Q4_0.gguf in this folder
 ├── gui/                  # User interface
 │   ├── app.py            # Main application
 │   └── themes.py         # Theme system
