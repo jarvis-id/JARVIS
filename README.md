@@ -1,3 +1,10 @@
+<!-- .github/metadata.html -->
+<meta property="og:title" content="J.A.R.V.I.S. AI Assistant">
+<meta property="og:description" content="Sebuah asisten AI berbasis suara dan GUI yang terinspirasi oleh J.A.R.V.I.S. dari Iron Man, dibangun dengan Python dan model bahasa lokal (LLM).">
+<meta property="og:image" content="https://raw.githubusercontent.com/jarvis-id/JARVIS/refs/heads/main/assets/logo.png">
+<meta property="og:url" content="https://github.com/jarvis-id/JARVIS">
+<meta name="twitter:card" content="summary_large_image">
+
 <div align="center">
   <img src="assets/logo.png" alt="JARVIS Logo" width="200">
 </div>
