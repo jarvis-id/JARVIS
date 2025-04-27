@@ -7,7 +7,7 @@
     J.A.R.V.I.S.
   </h1>
   <p style="color:#58a6ff" align="center">Just A Rather Very Intelligent System</p>
-  <p align="center">Penemu : David from UNIV Handayani 2011</p>
+  <p align="center">Penemu : David dari UNIV Handayani 2011</p>
 </div>
 
 <div align="center">
